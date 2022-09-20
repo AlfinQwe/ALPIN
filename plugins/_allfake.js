@@ -83,8 +83,8 @@ key: {
 						"mimetype": "image/jpeg",
 						"jpegThumbnail": fs.readFileSync('./src/logo.jpg') //Gambarnye
 					},
-					"title": wm, //Kasih namalu 
-					"description": data.namabot, 
+					"title": wm, //Mukhammad Alfin Hidayatulloh 
+					"description": data.QwertyBot, 
 					"currencyCode": "USD",
 					"priceAmount1000": "2000000000000000",
 					"retailerId": "Ghost",
