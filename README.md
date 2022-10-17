@@ -28,11 +28,11 @@
 
 ## UNTUK PENGGUNA RAILWAY
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Fsadteams%2Fbot-md)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FAlfinQwe%2FALPIN)
 
 ## UNTUK PENGGUNA REPLIT
 
-[![Run on Repl.it](https://repl.it/badge/github/FadliDarmawan/haruno)](https://repl.it/github/sadteams/bot-md)
+[![Run on Repl.it](https://repl.it/badge/github/FadliDarmawan/haruno)](https://repl.it/github/AlfinQwe/ALPIN)
 ```cmd
 Buka Console
 ------------
